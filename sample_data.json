@@ -1,0 +1,54 @@
+{
+  "BABA": {
+    "x": [
+      {
+        "id": "x1",
+        "text": "BABA looks strong into earnings, nice rebound on volume!",
+        "created_at": "2025-08-10T12:00:00Z"
+      },
+      {
+        "id": "x2",
+        "text": "Worried about China exposure on Alibaba, might trim.",
+        "created_at": "2025-08-10T14:00:00Z"
+      },
+      {
+        "id": "x3",
+        "text": "Accumulating $BABA at support. Risk/reward is great.",
+        "created_at": "2025-08-11T09:00:00Z"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "r1",
+        "text": "Anyone else thinks Alibaba is undervalued vs peers? DCF suggests upside.",
+        "created_at": "2025-08-10T18:00:00Z"
+      },
+      {
+        "id": "r2",
+        "text": "Regulatory risk still a thing. I'm cautious on BABA short-term.",
+        "created_at": "2025-08-11T02:00:00Z"
+      }
+    ]
+  },
+  "AAPL": {
+    "x": [
+      {
+        "id": "x4",
+        "text": "New iPhone rumors pumping AAPL again. Classic.",
+        "created_at": "2025-08-10T13:00:00Z"
+      },
+      {
+        "id": "x5",
+        "text": "AAPL buybacks keep the floor solid. Long.",
+        "created_at": "2025-08-11T11:00:00Z"
+      }
+    ],
+    "reddit": [
+      {
+        "id": "r3",
+        "text": "Ecosystem lock-in is insane. Hard to bet against Apple.",
+        "created_at": "2025-08-10T20:00:00Z"
+      }
+    ]
+  }
+}
